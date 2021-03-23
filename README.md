@@ -1,2 +1,3 @@
 # autoveikals
 2. praktiskais darbs PIT
+Ideja: Tā kā mūs šobrīd skar vīrusa pandēmija, drošāk ir pārdot auto rezerves daļas internetā nekā uz ierasties uz veikalu. Vieglāk, ātrāk un ērtāk ir pārbaudīt preces pieejamību meklējot preču klāstā internetā, nekā zvanīt vai speciāli ierasties uz veikalu un jautāt preces pieejamību (var arī rasties arī pārpratumi, piemēram, klients un pārdevējs runā par ļoti līdzīgām precēm, bet ne par to pašu preci un rezultātā iegādātā prece var nederēt, taču internetā preci un visas tās parametrus var aplūkot mierīgi bez steigas). Iespēju pasūtīt preces būs tikai reģistrētiem lietotājiem. 
